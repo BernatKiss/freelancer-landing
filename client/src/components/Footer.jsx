@@ -60,9 +60,10 @@ ready took these courses!</h2>
          <p className='text-[12px] text-white font-extralight' >info@payme.net</p>
       </div>
    </div>
+  
 
   </div>
-
+ <p className='text-[12px] text-white font-extralight text-center items-center justify-center mt-10'>© 2021 Payme. All rights reserved</p>
 </footer>
 
   )
