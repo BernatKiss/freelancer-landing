@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&family=Outfit:wght@100..900&family=Playfair:ital,opsz,wght@0,5..1200,300..900;1,5..1200,300..900&family=Questrial&display=swap');
+
+@import "tailwindcss";
+
+body{
+   font-family: "Manrope", sans-serif;
+   font-size: 500;
+   color: #313131;
+   overflow-x: hidden;
+}
+
+@theme {
+  --color-primary: #25A4AD;
+}
